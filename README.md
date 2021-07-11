@@ -27,13 +27,13 @@ The analysis portion was straight forward, and the data was already very clean, 
 From the analysis there are several results that should prove useful in planning a Kickstarter campaign for theater groups attempting to fund plays through crowd sourcing.
 
 ### Launch Date Insights
-<img src='resources/Theater_Outcomes_vs_Launch.png>
+![](Resources/Theater_Outcomes_vs_Launch.png)
 
 In the analysis it was uncovered that May not only had the highest number of launched campaigns, it also had the highest number of successful campaigns with over twice as many successful campaigns to failed ones. December was the weakest month with the lowest number of launched campaigns as well an almost equal number of successful campaigns as failed campaigns. If a campaign could not be launched in May, the summer months of June and July also have a higher number of successful campaigns to failed.
 
 
 ### Outcomes vs Goals Insights
-<img src='resources/Outcomes_vs_Goals.png>
+![](Resources/Outcomes_vs_Goals.png)
 
 Looking at the ranges of the Goals, we can see that most campaigns had goals less than $5000. Goals less than $15,000 were more likely to be successful, but the smaller the goal the more likely it was to succeed. After $15000, the rate of failed campaigns is greater until $35,000, at which point the percentage of successful campaigns seems to higher until $45,000 where the percentage of failed campaigns increases dramatically.
 
