@@ -20,7 +20,7 @@ In order to check outcomes based on launch date, a new column was created to ext
 
 ### Challenges and Difficulties Encountered
 
-The analysis portion was straight forward, and the data was already very clean, so there were not a great deal of difficulty finding results that provided insights. 
+The analysis portion was straight forward, and the data was already very clean, so there were not a great deal of difficulty finding results that provided insights. Some issues that we may have run into would be incorrect data types, currency conversion, or missing data.
 
 ## Results
 
